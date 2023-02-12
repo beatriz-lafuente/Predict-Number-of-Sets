@@ -31,6 +31,6 @@
 <h2 id="#this-repository">This Repository</h2> 
 <p>In this repository you will find:</p>
 <ul> 
-    <li>A <a link="https://github.com/beatriz-lafuente/CRISPDM/blob/main/web_scrapping.R"> <strong>R file</strong> </a>containing the web scrapping code developed. </li>
-    <li>Another <a link="https://github.com/beatriz-lafuente/CRISPDM/blob/main/CRISP_DM.R"> <strong>R file</strong> </a> containing the code developed for data analysis and modelling. </li>
+    <li>A <strong>R file</strong> containing the web scrapping code developed. </li>
+    <li>Another <strong>R file</strong> containing the code developed for data analysis and modelling. </li>
 </ul>
