@@ -13,7 +13,7 @@
 <p> The main objective of this project is to predict the number of sets to complete a professional tennis match. It's only used the data from Germany games and all stages of CRISP-DM are traveled. </p>
 <p>This project uses <strong>R</strong> programming language for:</p>
 <ul>
-    <li>Web Scrapping</li>
+    <li>Web Scraping</li>
     <li>Exploratory Analysis</li>
     <li>Data Cleaning</li>
     <li>Feature Engineering</li>
@@ -31,6 +31,7 @@
 <h2 id="#this-repository">This Repository</h2> 
 <p>In this repository you will find:</p>
 <ul> 
-    <li>A <strong>R file</strong> containing the web scrapping code developed. </li>
+    <li>A <strong>R file</strong> containing the web scraping code developed. </li>
     <li>Another <strong>R file</strong> containing the code developed for data analysis and modelling. </li>
+    <li>A directory containing the data obtained from web scraping phase. </li>
 </ul>
