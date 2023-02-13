@@ -31,6 +31,6 @@
 <h2 id="#this-repository">This Repository</h2> 
 <p>In this repository you will find:</p>
 <ul> 
-    <li>A <a link=" "> <strong>R file</strong> </a>containing the web scrapping code developed. </li>
-    <li>Another <a link=" "> <strong>R file</strong> </a> containing the code developed for data analysis and modelling. </li>
+    <li>A <strong>R file</strong> containing the web scrapping code developed. </li>
+    <li>Another <strong>R file</strong> containing the code developed for data analysis and modelling. </li>
 </ul>
